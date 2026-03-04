@@ -1,8 +1,18 @@
 <p align="center">
-  <img src="https://github.com/M-Awais-awais/M-Awais-awais/blob/main/git.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/M-Awais-awais/M-Awais-awais/blob/main/background.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Awais!</h1>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-Awais-awais&show_icons=true&locale=en&theme=prussian&count_private=true&hide_border=true" alt="M-Awais-awais's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Awais-awais&locale=en&theme=prussian&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=M-Awais-awais&theme=prussian&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Awais-awais&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/M-Awais-awais" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @M-Awais-awais" /></a>
+</p>
 
 <h3 align="center">I am Web Developer working with HTML, CSS, Bootstrap, React on the front
 and Python, Django on the back.
@@ -43,13 +53,3 @@ Clean code. Real projects. Constant growth.</h3>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-Awais-awais&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="M-Awais-awais's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Awais-awais&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=M-Awais-awais&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Awais-awais&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/M-Awais-awais" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @M-Awais-awais" /></a>
-</p>
