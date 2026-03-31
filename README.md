@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=M-Awais-awais&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/M-Awais-awais" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @M-Awais-awais" /></a>
 </p>
 
-<h3 align="center">I am Web Developer working with HTML, CSS, Bootstrap, React on the front
+<h3 align="center">I am Web Developer working with HTML, CSS, Bootstrap,Tailwind CSS, React on the front
 and Python, Django on the back.
 Clean code. Real projects. Constant growth.</h3>
 
@@ -47,6 +47,7 @@ Clean code. Real projects. Constant growth.</h3>
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" height="45" style="vertical-align: middle; margin: 5px;" />
+   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwindcss" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
